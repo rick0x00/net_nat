@@ -1,5 +1,16 @@
 #!/bin/bash
 
+# ============================================================ #
+# Tool Created date: 17 fev 2023                               #
+# Tool Created by: Henrique Silva (rick.0x00@gmail.com)        #
+# Tool Name: net_nat (OS debian, Native, NfTables)             #
+# Description: Script for creation of NAT with NFTABLES        #
+# License: MIT License                                         #
+# Remote repository 1: https://github.com/rick0x00/net_nat     #
+# Remote repository 2: https://gitlab.com/rick0x00/net_nat     #
+# ============================================================ #
+
+
 # The loopback network interface
 auto lo
 iface lo inet loopback
