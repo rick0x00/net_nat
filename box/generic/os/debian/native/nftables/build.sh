@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # ============================================================ #
-# Tool Created date: 17 fev 2023                               #
+# Tool Created date: 05 mar 2023                               #
 # Tool Created by: Henrique Silva (rick.0x00@gmail.com)        #
 # Tool Name: net_nat (OS debian, Native, NfTables)             #
 # Description: Script for creation of NAT with NFTABLES        #
